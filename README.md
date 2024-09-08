@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Im a Freelancer with rich experience managing and working on a lot of projects, don't wait, if you need an App, Aplication, <strong>AI integration</strong> or a website you can hire my services on my socials <strong>bellow</strong> <br>
+I am a Freelancer with rich experience managing and working on a lot of differents projects, <strong>What are you waiting for?</strong>, if you need an App, Application, <strong>AI integrations</strong> or a website you can hire my services on my socials <strong>Bellow</strong> <br>
 
 
 ## 🌐 Socials:
