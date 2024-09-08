@@ -3,11 +3,9 @@
 I am a Freelancer with rich experience managing and working on a lot of differents projects, <strong>What are you waiting for?</strong>, if you need an App, Application, <strong>AI integrations</strong> or a website you can hire my services on my socials <strong>Bellow</strong>
 
 <br>
-<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/C5KVWW4g)
-<br>
 <br>
 
 # 📊 GitHub Stats:
@@ -18,7 +16,7 @@ I am a Freelancer with rich experience managing and working on a lot of differen
 <br>
 <br>
 
-<h1>Development Skills:</h1>
+<h1>Software Development Skills:</h1>
 
 <br>
 
