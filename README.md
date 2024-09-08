@@ -4,18 +4,10 @@ I am a <strong>Freelancer Developer</strong> with rich experience managing and w
 
 <br>
 
-## Here you can contact me !:
+## ⬇️ Here you can contact me !:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/C5KVWW4g)
-<br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=AngelTech90&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=AngelTech90&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-[![](https://visitcount.itsvg.in/api?id=AngelTech90&icon=0&color=0)](https://visitcount.itsvg.in)
 <br>
-<br>
-
 <h1>Software Development Skills:</h1>
 
 <br>
