@@ -6,6 +6,9 @@ I am a <strong>Freelancer Developer</strong> with rich experience managing and w
 
 ## ⬇️ Here you can contact me !:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/C5KVWW4g)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-sayaverde-0b4173322/)
+[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c3c63ec064f491d3)
+[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.com/u/Sayaverde)
 
 <br>
 <h1>Software Development Skills:</h1>
