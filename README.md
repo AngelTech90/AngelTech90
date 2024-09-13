@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=FullStack+Developer;Senior+Front-end+Developer;Mobile+App+Developer)](https://git.io/typing-svg)
+
 
 # 💫 About Me:
 I am a <strong>Freelancer Developer</strong> with rich experience managing and working on a lot of differents projects, <strong>What are you waiting for?</strong>, if you need an App, Application, <strong>AI integrations</strong> or a website you can hire my services on my socials <strong>Bellow</strong>
