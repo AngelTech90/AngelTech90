@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-I am a <strong>Freelancer Developer</strong> with rich experience managing and working on a lot of differents projects, <strong>What are you waiting for?</strong>, if you need an App, Application, <strong>AI integrations</strong> or a website you can hire my services on my socials <strong>Bellow</strong>
+I am a <strong>Freelancer Developer</strong> with rich experience managing and working on a lot of differents projects, <strong>What are you waiting for?</strong>, if you need an <strong>mobile app</strong>, <strong>desktop application</strong>, <strong>AI integrations</strong> or a <strong>website</strong> you can hire my services on my socials <strong>Bellow</strong>
 
 <br>
 
