@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=FullStack+Developer;Front-end+Developer;Mobile+App+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=FullStack+Developer;Front-end+Developer;Mobile+App+Developer;AI+Integration;Freelancer+developer;Project+Manager)](https://git.io/typing-svg)
 
 
 # 💫 About Me:
