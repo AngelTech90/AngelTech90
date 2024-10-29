@@ -9,7 +9,6 @@ I am a <strong>Freelancer Developer</strong> with rich experience managing and w
 ## ⬇️ Here you can contact me !:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/C5KVWW4g)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-sayaverde-0b4173322/)
-[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.com/u/Sayaverde)
 
 <br>
 <h1>Software Development Skills:</h1>
